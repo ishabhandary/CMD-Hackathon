@@ -123,3 +123,6 @@ C:\Users\Admin\Documents\CMD-new\CMD\bin\System.Runtime.CompilerServices.Unsafe.
 C:\Users\Admin\Documents\CMD-new\CMD\bin\Unity.Abstractions.pdb
 C:\Users\Admin\Documents\CMD-new\CMD\bin\Unity.Container.pdb
 C:\Users\Admin\Documents\CMD-new\CMD\bin\Unity.WebApi.dll
+C:\Users\Admin\Documents\CMD-new\CMD\bin\Elmah.Contrib.WebApi.dll
+C:\Users\Admin\Documents\CMD-new\CMD\bin\Elmah.dll
+C:\Users\Admin\Documents\CMD-new\CMD\bin\Elmah.Contrib.WebApi.xml

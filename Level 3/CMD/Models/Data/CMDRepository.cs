@@ -18,8 +18,10 @@ namespace CMD.Models.Data
 
         public Clinic GetClinic(int id)
         {
-            var c = db.Clinics.Find(id);
-            return c;
+            var clinic = (from c in db.Clinics
+                    where c.ClinicId==id
+                    select c).FirstOrDefault();
+            return clinic;
         }
     }
 }

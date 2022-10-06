@@ -25,7 +25,7 @@ namespace CMD.Models.Entities
 
         public ServiceType ServiceType { get; set; }
 
-        public List<Clinic> Clinics { get; set; }
+        public virtual List<Clinic> Clinics { get; set; }
 
     }
 

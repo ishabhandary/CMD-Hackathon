@@ -35,7 +35,7 @@ namespace CMD.Models.Entities
 
         public DateTime DateCreated { get; set; }
 
-        public List<Service> Services { get; set; }
+        public virtual List<Service> Services { get; set; }
 
     }
 }
